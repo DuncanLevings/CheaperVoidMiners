@@ -1,9 +1,37 @@
-# Cheaper Void Miners for GTNH
+# CheaperVoidMiners (GTNH 2.8.4)
 
-### What does this mod do?
-Adds 3 new void miners (Void Miner EX) at LV, HV, and IV that outputs 8, 16, and 32 ores per second.
+Fork of: https://github.com/Tungsten-W-74/CheaperVoidMiners  
+Rebalanced and updated for **GregTech: New Horizons 2.8.4**
 
-### Motivation
-This was made for my no-ae2 run. Due to the insane dedicated processing line requirements this entails, bottlenecking on raw materials is not easily remedied especially as you go progress tiers. Providing free infinite ores near the beginning of the game is a significant balance change that enables you to quickly build dedicated processing lines right out of the gate. It also lets you quickly set up entirely new processing lines from scratch without spamming a gagillion bees or crops at each facility.
+---
 
-This goes against the spirit of GTNH being hardcore, but is similar to other games like Satisfactory or Project Dyson Sphere that do not have magic AE2 nonsense.
+## Overview
+
+Adds three early-tier Void Miner variants using the standard ZPM Void Miner structure, but built with tier-appropriate materials.
+IE. GTNH Void Miner - https://gtnh.miraheze.org/wiki/Void_Miner
+
+Purpose is to provide constant ore production similar to GTNH ZPM+ Void Miners in earlier tiers allowing more focus on infastructure and factory building rather than vein searching and mining.
+
+- **Void Miner EX I (LV)** — 2 ores/sec  
+- **Void Miner EX II (HV)** — 4 ores/sec  
+- **Void Miner EX III (IV)** — 8 ores/sec  
+
+---
+
+## Balance Adjustments
+
+- Noble gas boosting **disabled**
+- Fixed output scaling per tier (2 / 4 / 8)
+- Recipes gated near end of respective tier
+- Designed for early to mid game infrastructure progression
+
+---
+
+## Compatibility
+
+- **GTNH 2.8.4**
+- Minecraft **1.7.10**
+
+---
+
+License follows the original project.
