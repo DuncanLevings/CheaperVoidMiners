@@ -9,6 +9,7 @@ Rebalanced and updated for **GregTech: New Horizons 2.8.4**
 
 Adds three early-tier Void Miner variants using the standard ZPM Void Miner structure, but built with tier-appropriate materials.
 IE. GTNH Void Miner - https://gtnh.miraheze.org/wiki/Void_Miner
+
 Purpose is to provide constant ore production similar to GTNH ZPM+ Void Miners in earlier tiers allowing more focus on infastructure and factory building rather than vein searching and mining.
 
 - **Void Miner EX I (LV)** — 2 ores/sec  
