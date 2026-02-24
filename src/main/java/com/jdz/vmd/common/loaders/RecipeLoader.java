@@ -10,7 +10,7 @@ public class RecipeLoader {
             ItemRegistry.VoidMinerEX1,
             new Object[] { "SES", "MHM", "RAR", 'M', ItemList.Machine_LV_Miner.get(1), 'H', ItemList.Hull_LV.get(1),
                 'S', ItemList.Sensor_LV.get(1), 'E', ItemList.Emitter_LV.get(1), 'R', ItemList.Robot_Arm_LV.get(1), 'A',
-                ItemList.Circuit_Advanced.get(1) });
+                ItemList.Circuit_Good.get(1) });
 
         GTModHandler.addCraftingRecipe(
             ItemRegistry.VoidMinerEX2,
